@@ -1,0 +1,57 @@
+body{
+  background-color: #f3f9fb;
+}
+
+h1{
+  font-size: 4.6rem;
+  margin-bottom: 0;
+}
+
+h2 {
+  font-size: 3rem;
+}
+
+h3{
+  font-size: 2rem;
+}
+
+p {
+  font-size: 1.3rem;
+  line-height: 49px;
+}
+
+li {
+  font-size: 1.3rem;
+}
+
+.linkText{
+  text-align: center;
+}
+
+.imageCenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-bottom: 24px;
+}
+
+.terms{
+  font-size: 1.3rem;
+}
+.articleContent {
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.col {
+  width: 100%;
+}
+
+.authors {
+  float: none;
+  margin-bottom: 24px;
+}
+
+.date-users .users li .no-profile{font-size:12px;line-height:15px;display:block;font-family:'OpenSans-Semibold';color:#000}
+.date-users .users li a{font-size:12px;line-height:15px;display:block;font-family:'OpenSans-Semibold'}
